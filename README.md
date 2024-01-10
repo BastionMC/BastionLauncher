@@ -1,3 +1,3 @@
 # BastionLauncher
 
-A Launvher application for managing and updating our software.
+A Launcher application for managing and updating our software.
